@@ -1,0 +1,12 @@
+https://www.google.com/search?client=firefox-b-e&sxsrf=ALeKk02vtz- bZmj6PmbmmW\\\4aCS5Z lp7aag:1605270050433&q=banana+benefits+and+side+effe cts&sa=X&ved=2ahUKEwiomf_4wP_sAhUXyDgGHR1 BCwQQ1QIoB3oECA0QCA
+10
+search?client
+search\?client
+\d*=.*\+
+^http\\:
+[a-zA-z01234][-]
+\w*?\+\w*?\+\w*?\+
+-\w+-e[&]s
+\\\\\\
+\w?_\d\w+_\w*
+\w*://\w*?\.\w*?\.com

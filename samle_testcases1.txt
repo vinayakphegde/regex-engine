@@ -1,0 +1,12 @@
+neenu neene illi nanu nane, neenu neene illi nanu nane. neenu embuvanilli nadavagiruvaaga naanenu hadalayya daasanu daasassssss.... neene neene illi nanu naane
+10
+neenu neene illi nanu
+n.*e
+n.*?e
+n\w*e
+n\w+e
+n\w?e
+s\..*n
+s\.*
+s.*
+^neenu.*naane$
